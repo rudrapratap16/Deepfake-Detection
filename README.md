@@ -59,4 +59,4 @@ Start the Streamlit app by running:
 streamlit run app.py
 ```
 
-After running this command, a local web server will start, and you'll see a URL (usually `http://localhost:8501
+After running this command, a local web server will start, and you'll see a URL (usually `http://localhost:8501`)
