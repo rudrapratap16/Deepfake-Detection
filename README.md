@@ -29,7 +29,7 @@ Follow these steps to set up the project on your local machine:
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/deepfake-detection
+git clone https://github.com/rudrapratap16/Deepfake-Detection
 cd deepfake-detection
 ```
 
